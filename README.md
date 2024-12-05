@@ -27,7 +27,7 @@ This is a JavaFX-based application for managing a school football team's players
 ### Steps to Run
 1. Clone or download the repository to your local machine.
    ```bash
-   git clone https://github.com/your-repository/football-team-manager.git
+   git clone https://github.com/Machuge27/Java-Apks.git
    cd football-team-manager
    ```
 2. Open the project in your preferred IDE.
@@ -83,17 +83,4 @@ src/
 - Provide advanced statistics for the team and individual players.
 - Improve the UI design with CSS for a more professional look.
 
----
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-## Acknowledgments
-- **JavaFX**: For providing the tools to create a modern UI.
-- **Mutai Hillary**: For authoring and developing the project.
-
---- 
-
-Feel free to customize the file to suit your project specifics!
